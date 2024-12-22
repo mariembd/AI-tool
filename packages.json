@@ -1,0 +1,12 @@
+{ 
+"name": "ai-tool",
+"version": "1.0.0", 
+"description": "A Vue.js-based AI tool page powered by OpenAI's API",
+"main": "index.js", 
+"scripts": { "dev": "vite", "build": "vite build", 
+"serve": "vite preview" }, 
+"author": "Fortuna", 
+"license": "MIT", 
+"dependencies": { "vue": "^3.3.0" }, 
+"devDependencies": { "vite": "^4.3.9", "@vitejs/plugin-vue": "^4.0.0" } 
+}
